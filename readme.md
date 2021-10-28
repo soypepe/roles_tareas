@@ -10,4 +10,7 @@ Se puede activar a los usuarios y desactivarlos para que no puedan entrar al sis
 
 ###Capturas
 
-<img scr="https://gitlab.com/soy.pepe/roles_tareas/-/raw/master/captura1.png" width=300/>
+<img src="https://gitlab.com/soy.pepe/roles_tareas/-/raw/master/captura1.png" width=700/>
+
+
+<img src="https://gitlab.com/soy.pepe/roles_tareas/-/raw/master/captura2.png" width=700/>
